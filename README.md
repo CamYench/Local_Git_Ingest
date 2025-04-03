@@ -1,6 +1,6 @@
 # Local_Git_Ingest
 Convert your private / local repo into a context-friendly format for LLM context
-
+<img width="1815" alt="image" src="https://github.com/user-attachments/assets/82c5bfbd-17f4-48ef-a376-871eaa433019" />
 ## Features
 
 - 📝 Extracts a summary from the repository's `README.md` if available
